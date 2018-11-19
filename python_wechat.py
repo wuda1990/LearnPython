@@ -6,6 +6,7 @@ python_wechat.py by xianhu
 (1) 自动提醒群红包
 (2) 自动监测被撤回消息
 (3) 群关键字提醒，群被@提醒
+你好
 """
 
 import time
